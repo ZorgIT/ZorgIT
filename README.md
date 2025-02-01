@@ -25,7 +25,7 @@
   За любой кипишь кроме голодовки!) Впишусь в хакатон, любой иной командный движ.
   
 ### Обо мне :man_technologist: :   <br>
-Имею опыт разработки более 2 лет. Основной стек Java\Spring\Maven\PostgreSQL\Git\Junit. Сейчас углубляю знания по Spring Framework, SQL, Docker. Планирую развивать навыки CI\CD, тестирование, паттерны проектирования.
+ Основной стек Java\Spring\Maven\PostgreSQL\Git\Junit. Сейчас углубляю знания по Spring Framework, SQL, Docker. Планирую развивать навыки CI\CD, тестирование, паттерны проектирования.
 </div>
 <div id="techskack" align="center">
   
