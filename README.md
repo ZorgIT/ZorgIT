@@ -25,7 +25,7 @@
   За любой кипишь кроме голодовки!) Впишусь в хакатон, любой иной командный движ.
   
 ### Обо мне :man_technologist: :   <br>
- Основной стек Java\Spring\Maven\PostgreSQL\Git\Junit. Сейчас углубляю знания по Spring Framework, SQL, Docker. Планирую развивать навыки CI\CD, тестирование, паттерны проектирования.
+ Основной стек Java\Spring\Maven\PostgreSQL\Git\Junit. Сейчас углубляю знания по Spring Framework, SQL, Docker; Знание тест-дизайна, жизненного цикла ПО и работы с DevTools, Postman. Планирую развивать навыки CI\CD, тестирование, паттерны проектирования.
 </div>
 <div id="techskack" align="center">
   
